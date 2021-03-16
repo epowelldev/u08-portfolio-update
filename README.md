@@ -8,4 +8,5 @@ I have updated it to use real information, and projects I have done over the pas
 
 
 ![alt text](assets/images/u08-portfolio-update.png "Deployed Screenshot")
+
 [Deployed Project](https://epowelldev.github.io/u08-portfolio-update/ "Portfolio")
